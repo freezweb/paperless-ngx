@@ -797,7 +797,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
-          <context context-type="linenumber">105</context>
+          <context context-type="linenumber">137</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/management-list/management-list.component.html</context>
@@ -1157,11 +1157,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">62</context>
+          <context context-type="linenumber">63</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">95</context>
+          <context context-type="linenumber">100</context>
         </context-group>
         <target state="translated">메모</target>
       </trans-unit>
@@ -1205,11 +1205,19 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
-          <context context-type="linenumber">39</context>
+          <context context-type="linenumber">41</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
-          <context context-type="linenumber">85</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
+          <context context-type="linenumber">111</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/management-list/management-list.component.html</context>
@@ -1533,7 +1541,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
-          <context context-type="linenumber">69</context>
+          <context context-type="linenumber">81</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/management-list/management-list.component.html</context>
@@ -1629,7 +1637,15 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
-          <context context-type="linenumber">88</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
+          <context context-type="linenumber">114</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/management-list/management-list.component.html</context>
@@ -1685,7 +1701,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.html</context>
-          <context context-type="linenumber">38</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.html</context>
+          <context context-type="linenumber">52</context>
         </context-group>
         <target state="translated">삭제</target>
       </trans-unit>
@@ -2037,7 +2057,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
-          <context context-type="linenumber">66</context>
+          <context context-type="linenumber">78</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/management-list/management-list.component.html</context>
@@ -2093,11 +2113,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">38</context>
+          <context context-type="linenumber">39</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">92</context>
+          <context context-type="linenumber">97</context>
         </context-group>
         <target state="translated">생성일</target>
       </trans-unit>
@@ -2397,7 +2417,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
-          <context context-type="linenumber">173</context>
+          <context context-type="linenumber">179</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/management-list/management-list.component.ts</context>
@@ -2405,7 +2425,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.ts</context>
-          <context context-type="linenumber">97</context>
+          <context context-type="linenumber">115</context>
         </context-group>
         <target state="translated">이 작업은 되돌릴 수 없습니다.</target>
       </trans-unit>
@@ -2601,7 +2621,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-card-small/document-card-small.component.html</context>
-          <context context-type="linenumber">120</context>
+          <context context-type="linenumber">128</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/custom-fields/custom-fields.component.html</context>
@@ -2609,11 +2629,19 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
-          <context context-type="linenumber">36</context>
+          <context context-type="linenumber">40</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
-          <context context-type="linenumber">82</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
+          <context context-type="linenumber">108</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/management-list/management-list.component.html</context>
@@ -2649,7 +2677,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.html</context>
-          <context context-type="linenumber">35</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.html</context>
+          <context context-type="linenumber">49</context>
         </context-group>
         <target state="translated">편집</target>
       </trans-unit>
@@ -2761,7 +2793,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
-          <context context-type="linenumber">175</context>
+          <context context-type="linenumber">181</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/management-list/management-list.component.ts</context>
@@ -2769,7 +2801,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.ts</context>
-          <context context-type="linenumber">99</context>
+          <context context-type="linenumber">117</context>
         </context-group>
         <target state="translated">진행</target>
       </trans-unit>
@@ -2961,7 +2993,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">46</context>
+          <context context-type="linenumber">47</context>
         </context-group>
         <target state="translated">태그</target>
       </trans-unit>
@@ -3193,7 +3225,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-card-small/document-card-small.component.html</context>
-          <context context-type="linenumber">131</context>
+          <context context-type="linenumber">139</context>
         </context-group>
         <target state="translated">다운로드</target>
       </trans-unit>
@@ -3330,22 +3362,6 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/clearable-badge/clearable-badge.component.html</context>
           <context context-type="linenumber">2</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.html</context>
-          <context context-type="linenumber">38</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.html</context>
-          <context context-type="linenumber">59</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.html</context>
-          <context context-type="linenumber">104</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.html</context>
-          <context context-type="linenumber">125</context>
         </context-group>
         <target state="translated">지우기</target>
       </trans-unit>
@@ -3581,7 +3597,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.html</context>
-          <context context-type="linenumber">91</context>
+          <context context-type="linenumber">89</context>
         </context-group>
         <target state="translated">지금</target>
       </trans-unit>
@@ -3589,11 +3605,11 @@
         <source>After</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.html</context>
-          <context context-type="linenumber">34</context>
+          <context context-type="linenumber">42</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.html</context>
-          <context context-type="linenumber">100</context>
+          <context context-type="linenumber">106</context>
         </context-group>
         <target state="translated">이후</target>
       </trans-unit>
@@ -3601,11 +3617,11 @@
         <source>Before</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.html</context>
-          <context context-type="linenumber">55</context>
+          <context context-type="linenumber">62</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.html</context>
-          <context context-type="linenumber">121</context>
+          <context context-type="linenumber">126</context>
         </context-group>
         <target state="translated">이전</target>
       </trans-unit>
@@ -3613,7 +3629,7 @@
         <source>Added</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.html</context>
-          <context context-type="linenumber">76</context>
+          <context context-type="linenumber">74</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
@@ -3621,11 +3637,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">42</context>
+          <context context-type="linenumber">43</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">93</context>
+          <context context-type="linenumber">98</context>
         </context-group>
         <target state="translated">추가됨</target>
       </trans-unit>
@@ -3633,7 +3649,7 @@
         <source>Last 7 days</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.ts</context>
-          <context context-type="linenumber">45</context>
+          <context context-type="linenumber">48</context>
         </context-group>
         <target state="translated">최근 일주일</target>
       </trans-unit>
@@ -3641,7 +3657,7 @@
         <source>Last month</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.ts</context>
-          <context context-type="linenumber">50</context>
+          <context context-type="linenumber">53</context>
         </context-group>
         <target state="translated">지난 달</target>
       </trans-unit>
@@ -3649,7 +3665,7 @@
         <source>Last 3 months</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.ts</context>
-          <context context-type="linenumber">55</context>
+          <context context-type="linenumber">58</context>
         </context-group>
         <target state="translated">지난 3개월</target>
       </trans-unit>
@@ -3657,7 +3673,7 @@
         <source>Last year</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/dates-dropdown/dates-dropdown.component.ts</context>
-          <context context-type="linenumber">60</context>
+          <context context-type="linenumber">63</context>
         </context-group>
         <target state="translated">지난 해</target>
       </trans-unit>
@@ -3997,7 +4013,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
-          <context context-type="linenumber">68</context>
+          <context context-type="linenumber">80</context>
         </context-group>
         <target state="translated">계정</target>
       </trans-unit>
@@ -5065,7 +5081,7 @@
         <source>Not assigned</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/filterable-dropdown/filterable-dropdown.component.ts</context>
-          <context context-type="linenumber">340</context>
+          <context context-type="linenumber">343</context>
         </context-group>
         <note priority="1" from="description">Filter drop down element to filter for documents with no correspondent/type/tag assigned</note>
         <target state="translated">할당되지 않음</target>
@@ -5074,7 +5090,7 @@
         <source>Open <x id="PH" equiv-text="this.title"/> filter</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/filterable-dropdown/filterable-dropdown.component.ts</context>
-          <context context-type="linenumber">452</context>
+          <context context-type="linenumber">455</context>
         </context-group>
         <target state="translated">"<x id="PH" equiv-text="this.title"/>" 필터 열기</target>
       </trans-unit>
@@ -5520,6 +5536,22 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/system-status-dialog/system-status-dialog.component.html</context>
           <context context-type="linenumber">156</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.html</context>
+          <context context-type="linenumber">57</context>
         </context-group>
         <target state="translated">복사</target>
       </trans-unit>
@@ -6019,7 +6051,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">277</context>
+          <context context-type="linenumber">286</context>
         </context-group>
         <target state="translated">담당자별 필터링</target>
       </trans-unit>
@@ -6035,7 +6067,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">312</context>
+          <context context-type="linenumber">321</context>
         </context-group>
         <target state="translated">문서 유형별로 필터링</target>
       </trans-unit>
@@ -6051,7 +6083,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">319</context>
+          <context context-type="linenumber">328</context>
         </context-group>
         <target state="translated">저장 경로별 필터링</target>
       </trans-unit>
@@ -6387,11 +6419,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">34</context>
+          <context context-type="linenumber">35</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">90</context>
+          <context context-type="linenumber">95</context>
         </context-group>
         <target state="translated">제목</target>
       </trans-unit>
@@ -6431,11 +6463,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">50</context>
+          <context context-type="linenumber">51</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">89</context>
+          <context context-type="linenumber">94</context>
         </context-group>
         <target state="translated">담당자</target>
       </trans-unit>
@@ -6459,11 +6491,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">54</context>
+          <context context-type="linenumber">55</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">91</context>
+          <context context-type="linenumber">96</context>
         </context-group>
         <target state="translated">문서 타입</target>
       </trans-unit>
@@ -6487,7 +6519,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">58</context>
+          <context context-type="linenumber">59</context>
         </context-group>
         <target state="translated">저장 경로</target>
       </trans-unit>
@@ -7365,7 +7397,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">288</context>
+          <context context-type="linenumber">297</context>
         </context-group>
         <target state="translated">태그별로 필터</target>
       </trans-unit>
@@ -7425,19 +7457,31 @@
         </context-group>
         <target state="translated">수정됨:<x id="INTERPOLATION" equiv-text="{{ document.modified | customDate }}"/></target>
       </trans-unit>
+      <trans-unit id="197162226430950645" datatype="html">
+        <source>{VAR_PLURAL, plural, =1 {1 page} other {<x id="INTERPOLATION"/> pages}}</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/document-list/document-card-large/document-card-large.component.html</context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/document-list/document-card-small/document-card-small.component.html</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+        <target state="needs-translation">{VAR_PLURAL, plural, =1 {1 page} other {<x id="INTERPOLATION"/> pages}}</target>
+      </trans-unit>
       <trans-unit id="5739581984228459958" datatype="html">
         <source>Shared</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-card-large/document-card-large.component.html</context>
-          <context context-type="linenumber">121</context>
+          <context context-type="linenumber">127</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-card-small/document-card-small.component.html</context>
-          <context context-type="linenumber">106</context>
+          <context context-type="linenumber">114</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">70</context>
+          <context context-type="linenumber">71</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pipes/username.pipe.ts</context>
@@ -7449,7 +7493,7 @@
         <source>Score:</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-card-large/document-card-large.component.html</context>
-          <context context-type="linenumber">126</context>
+          <context context-type="linenumber">132</context>
         </context-group>
         <target state="translated">점수:</target>
       </trans-unit>
@@ -7605,11 +7649,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">74</context>
+          <context context-type="linenumber">75</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">88</context>
+          <context context-type="linenumber">93</context>
         </context-group>
         <target state="translated">ASN</target>
       </trans-unit>
@@ -7645,11 +7689,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">66</context>
+          <context context-type="linenumber">67</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">96</context>
+          <context context-type="linenumber">101</context>
         </context-group>
         <target state="translated">소유자</target>
       </trans-unit>
@@ -7693,11 +7737,39 @@
         </context-group>
         <target state="translated">추가된 날짜로 정렬</target>
       </trans-unit>
+      <trans-unit id="4874754501044009042" datatype="html">
+        <source>Sort by number of pages</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
+          <context context-type="linenumber">252</context>
+        </context-group>
+        <target state="needs-translation">Sort by number of pages</target>
+      </trans-unit>
+      <trans-unit id="3817498941817715969" datatype="html">
+        <source>Pages</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
+          <context context-type="linenumber">256</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/data/document.ts</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/data/document.ts</context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+        <target state="translated">페이지</target>
+      </trans-unit>
       <trans-unit id="329406837759048287" datatype="html">
         <source> Shared </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">250,252</context>
+          <context context-type="linenumber">259,261</context>
         </context-group>
         <target state="translated"> 공유됨 </target>
       </trans-unit>
@@ -7705,7 +7777,7 @@
         <source>Edit document</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">284</context>
+          <context context-type="linenumber">293</context>
         </context-group>
         <target state="translated">문서 수정</target>
       </trans-unit>
@@ -7713,7 +7785,7 @@
         <source>Yes</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">335</context>
+          <context context-type="linenumber">349</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pipes/yes-no.pipe.ts</context>
@@ -7725,7 +7797,7 @@
         <source>No</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">335</context>
+          <context context-type="linenumber">349</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/pipes/yes-no.pipe.ts</context>
@@ -8197,7 +8269,7 @@
         <source>No mail accounts defined.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
-          <context context-type="linenumber">50</context>
+          <context context-type="linenumber">62</context>
         </context-group>
         <target state="translated">메일 계정이 정의되어 있지 않습니다.</target>
       </trans-unit>
@@ -8205,7 +8277,7 @@
         <source>Mail rules</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
-          <context context-type="linenumber">58</context>
+          <context context-type="linenumber">70</context>
         </context-group>
         <target state="translated">메일 규칙</target>
       </trans-unit>
@@ -8213,7 +8285,7 @@
         <source>Add Rule</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
-          <context context-type="linenumber">60</context>
+          <context context-type="linenumber">72</context>
         </context-group>
         <target state="translated">규칙 추가</target>
       </trans-unit>
@@ -8221,7 +8293,7 @@
         <source>Sort Order</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
-          <context context-type="linenumber">67</context>
+          <context context-type="linenumber">79</context>
         </context-group>
         <target state="translated">정렬 순서</target>
       </trans-unit>
@@ -8229,7 +8301,7 @@
         <source>No mail rules defined.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.html</context>
-          <context context-type="linenumber">96</context>
+          <context context-type="linenumber">128</context>
         </context-group>
         <target state="translated">메일 규칙이 정의되어 있지 않습니다.</target>
       </trans-unit>
@@ -8301,7 +8373,7 @@
         <source>Saved rule &quot;<x id="PH" equiv-text="newMailRule.name"/>&quot;.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
-          <context context-type="linenumber">152</context>
+          <context context-type="linenumber">151</context>
         </context-group>
         <target state="translated">규치 <x id="PH" equiv-text="newMailRule.name"/> 저장됨</target>
       </trans-unit>
@@ -8309,7 +8381,7 @@
         <source>Error saving rule.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
-          <context context-type="linenumber">163</context>
+          <context context-type="linenumber">162</context>
         </context-group>
         <target state="translated">오류 저장 규칙.</target>
       </trans-unit>
@@ -8317,7 +8389,7 @@
         <source>Confirm delete mail rule</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
-          <context context-type="linenumber">171</context>
+          <context context-type="linenumber">177</context>
         </context-group>
         <target state="translated">메일 규칙 삭제 확인</target>
       </trans-unit>
@@ -8325,7 +8397,7 @@
         <source>This operation will permanently delete this mail rule.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
-          <context context-type="linenumber">172</context>
+          <context context-type="linenumber">178</context>
         </context-group>
         <target state="translated">이 작업을 수행하면 이 메일 규칙이 영구적으로 삭제됩니다.</target>
       </trans-unit>
@@ -8333,7 +8405,7 @@
         <source>Deleted mail rule</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
-          <context context-type="linenumber">181</context>
+          <context context-type="linenumber">187</context>
         </context-group>
         <target state="translated">삭제된 메일 규칙</target>
       </trans-unit>
@@ -8341,7 +8413,7 @@
         <source>Error deleting mail rule.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
-          <context context-type="linenumber">190</context>
+          <context context-type="linenumber">196</context>
         </context-group>
         <target state="translated">메일 규칙을 삭제하는 중 오류가 발생했습니다.</target>
       </trans-unit>
@@ -8349,7 +8421,7 @@
         <source>Permissions updated</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
-          <context context-type="linenumber">212</context>
+          <context context-type="linenumber">218</context>
         </context-group>
         <target state="translated">권한이 업데이트 되었습니다!</target>
       </trans-unit>
@@ -8357,7 +8429,7 @@
         <source>Error updating permissions</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/mail/mail.component.ts</context>
-          <context context-type="linenumber">217</context>
+          <context context-type="linenumber">223</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/management-list/management-list.component.ts</context>
@@ -8645,7 +8717,7 @@
         <source>No workflows defined.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.html</context>
-          <context context-type="linenumber">46</context>
+          <context context-type="linenumber">66</context>
         </context-group>
         <target state="translated">정의된 워크플로가 없습니다.</target>
       </trans-unit>
@@ -8653,7 +8725,7 @@
         <source>Saved workflow &quot;<x id="PH" equiv-text="newWorkflow.name"/>&quot;.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.ts</context>
-          <context context-type="linenumber">79</context>
+          <context context-type="linenumber">78</context>
         </context-group>
         <target state="translated">워크플로우 <x id="PH" equiv-text="newWorkflow.name"/>가 저장되었습니다.</target>
       </trans-unit>
@@ -8661,7 +8733,7 @@
         <source>Error saving workflow.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.ts</context>
-          <context context-type="linenumber">87</context>
+          <context context-type="linenumber">86</context>
         </context-group>
         <target state="translated">워크플로 저장 오류.</target>
       </trans-unit>
@@ -8669,7 +8741,7 @@
         <source>Confirm delete workflow</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.ts</context>
-          <context context-type="linenumber">95</context>
+          <context context-type="linenumber">113</context>
         </context-group>
         <target state="translated">삭제 워크플로 확인</target>
       </trans-unit>
@@ -8677,7 +8749,7 @@
         <source>This operation will permanently delete this workflow.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.ts</context>
-          <context context-type="linenumber">96</context>
+          <context context-type="linenumber">114</context>
         </context-group>
         <target state="translated">이 작업을 수행하면 이 워크플로가 영구적으로 삭제됩니다.</target>
       </trans-unit>
@@ -8685,7 +8757,7 @@
         <source>Deleted workflow</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.ts</context>
-          <context context-type="linenumber">105</context>
+          <context context-type="linenumber">123</context>
         </context-group>
         <target state="translated">워크플로 삭제됨</target>
       </trans-unit>
@@ -8693,7 +8765,7 @@
         <source>Error deleting workflow.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.ts</context>
-          <context context-type="linenumber">110</context>
+          <context context-type="linenumber">128</context>
         </context-group>
         <target state="translated">워크플로우 삭제중 오류</target>
       </trans-unit>
@@ -8781,7 +8853,7 @@
         <source>Modified</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">94</context>
+          <context context-type="linenumber">99</context>
         </context-group>
         <target state="translated">수정됨</target>
       </trans-unit>
@@ -8789,7 +8861,7 @@
         <source>Search score</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
-          <context context-type="linenumber">102</context>
+          <context context-type="linenumber">108</context>
         </context-group>
         <note priority="1" from="description">Score is a value returned by the full text search engine and specifies how well a result matches the given query</note>
         <target state="translated">Search score</target>
@@ -8921,14 +8993,6 @@
           <context context-type="linenumber">83</context>
         </context-group>
         <target state="translated">언어</target>
-      </trans-unit>
-      <trans-unit id="3817498941817715969" datatype="html">
-        <source>Pages</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
-          <context context-type="linenumber">90</context>
-        </context-group>
-        <target state="translated">페이지</target>
       </trans-unit>
       <trans-unit id="1713271461473302108" datatype="html">
         <source>Mode</source>
